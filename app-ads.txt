@@ -7,6 +7,7 @@ pangleglobal.com, 5032406, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 
 #openx
+openx.com, 565153991, DIRECT, 6a698e2ec38604c6
 openx.com, 565153978, DIRECT, 6a698e2ec38604c6
 
 #vangle
