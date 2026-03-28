@@ -6,6 +6,9 @@ google.com, pub-3282669723740714, DIRECT, f08c47fec0942fa0
 pangleglobal.com, 5032406, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 
+#openx
+openx.com, 565153978, DIRECT, 6a698e2ec38604c6
+
 #vangle
 vungle.com,69a6c0f98bd5a04249ce2c3e,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
